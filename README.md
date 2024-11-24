@@ -3,6 +3,10 @@
 <!--
 **MorozkoArt/MorozkoArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+https://github.com/user-attachments/assets/1fd9670a-efba-4255-98f8-0490fee24aca
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
