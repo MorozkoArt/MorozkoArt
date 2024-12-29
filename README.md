@@ -22,8 +22,8 @@
 ### About me
 - 🌱 I am currently studying at **Lobachevsky University** in the **Applied Informatics** department
 - 📝 I regularly practice writing code
-- 📄 Information about my main project [GitHub api - Information portrait](https://drive.google.com/drive/folders/18Q0nS8e0jUeByKjYreqZ1MXWn0KfvMVV?usp=drive_link)
-- 📫 Reach me by [email](mailto:artemmorozov155@gmail.com)
+- 📄 Information about my main project [**"GitHub api - Information portrait"**](https://drive.google.com/drive/folders/18Q0nS8e0jUeByKjYreqZ1MXWn0KfvMVV?usp=drive_link)
+- 📫 Reach me by [**"Email"**](mailto:artemmorozov155@gmail.com)
 - 🌍 I speak English
 ---
 ### Languages and tools
@@ -33,9 +33,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
 ### My stat
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MorozkoArt&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MorozkoArt&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MorozkoArt&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MorozkoArt&theme=github_dark&timestamp=1735496266.411335" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MorozkoArt&theme=github_dark&timestamp=1735496266.411363" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MorozkoArt&theme=github_dark&timestamp=1735496266.411366" alt=""/>
 </div>
 
 ---
