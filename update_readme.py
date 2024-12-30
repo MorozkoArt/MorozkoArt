@@ -1,5 +1,7 @@
 import re
 from datetime import datetime
+import pytz
+
 
 def update_readme(readme_path):
     with open(readme_path, 'r', encoding='utf-8') as f:
@@ -18,16 +20,20 @@ def update_readme(readme_path):
 
     # Обновление даты последнего обновления
     date_pattern = r'### My stat \(last update: (\d{2}\.\d{2}\.\d{4}(?:\s\d{2}:\d{2}:\d{2})?)?\)'
-    now = datetime.now()
+
+    # Определите нужную временную зону (например, 'Europe/Moscow')
+    timezone = pytz.timezone('Europe/Moscow')
+    now = datetime.now(timezone)
+
     formatted_date = now.strftime("%d.%m.%Y %H:%M:%S")
     replacement = f'### My stat (last update: {formatted_date})'
-
 
     updated_content, date_subs = re.subn(date_pattern, replacement, updated_content)
     print(f"Number of date substitutions: {date_subs}")
 
     with open(readme_path, 'w', encoding='utf-8') as f:
         f.write(updated_content)
+
 
 if __name__ == "__main__":
     readme_path = 'README.md'
