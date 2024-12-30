@@ -2,12 +2,12 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Запускать каждый день в 13:00 MSK (приблизительно, в зависимости от времени года)
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
   update_readme:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout code
@@ -29,5 +29,4 @@ jobs:
       with:
         commit_message: Update README with new stats
         push_options: '--force'
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.GITHUB_TOKEN }} # Используем параметр token
