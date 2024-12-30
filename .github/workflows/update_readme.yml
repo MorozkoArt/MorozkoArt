@@ -12,6 +12,8 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -23,14 +25,13 @@ jobs:
 
     - name: Run script
       run: python update_readme.py
-
-    - name: Configure Git with Token
+    - name: Configure Git
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-    - name: Commit and push changes
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: Update README with new stats
-        push_options: '--force'
+
+    - name: Commit and Push changes
+      run: |
+        git add .
+        git commit -m "Update README with new stats"
+        git push origin HEAD --force
