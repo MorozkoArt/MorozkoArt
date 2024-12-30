@@ -29,3 +29,5 @@ jobs:
       with:
         commit_message: Update README with new stats
         push_options: '--force'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
