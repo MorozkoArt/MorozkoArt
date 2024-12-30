@@ -7,13 +7,13 @@ on:
 
 jobs:
   update_readme:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v5
+      uses: actions/checkout@v3
       with:
-        fetch-depth: 0
+        fetch-depth: 0 # Необходимо для правильной работы git push
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -34,4 +34,4 @@ jobs:
       run: |
         git add .
         git commit -m "Update README with new stats"
-        git push origin HEAD --force
+        git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD --force
