@@ -3,19 +3,19 @@
 </div>
 
 <div id="header" align="center">
-    <h1>Hi there, I'm  Artem Morozov </h1>
+    <h1>Hi there!👋 I'm  Artem Morozov </h1>
     <h3>Student - programmer</h3>
 </div>
 
 <div id="socials" align="center">
     <a href="mailto:artemmorozov155@gmail.com">
-    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Email&logoColor=white" alt="Email"/>
+    <img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/4fd1903e43f84ab884e5ae311b45a904c1905132/Resources/Email-blue.svg" alt="Email"/>
   </a>
     <a href="https://vk.com/poc_norm">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK"/>
+    <img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/4fd1903e43f84ab884e5ae311b45a904c1905132/Resources/VK-blue.svg" alt="VK"/>
   </a>
     <a href="https://t.me/morozko282">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/4fd1903e43f84ab884e5ae311b45a904c1905132/Resources/Telegram-blue.svg" alt="Telegram"/>
   </a>
 </div>
 
@@ -36,11 +36,11 @@
 <img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/446de453fb12c56c11adfb43cde081d484777abb/Resources/visualstudio-original.svg" title="visualstudio" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/446de453fb12c56c11adfb43cde081d484777abb/Resources/vscode-original.svg" title="vscode" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/446de453fb12c56c11adfb43cde081d484777abb/Resources/unity-original.svg" title="unity" width="40" height="40"/>&nbsp;
-### My stat
+### My stat (last update: 30.12.2024 15:06:36)
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MorozkoArt&theme=github_dark&timestamp=1735559636.031001" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MorozkoArt&theme=github_dark&timestamp=1735559636.031015" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MorozkoArt&theme=github_dark&timestamp=1735559636.031019" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MorozkoArt&theme=github_dark&timestamp=1735560396.661827" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MorozkoArt&theme=github_dark&timestamp=1735560396.661882" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MorozkoArt&theme=github_dark&timestamp=1735560396.661887" alt=""/>
 </div>
 
 ---
