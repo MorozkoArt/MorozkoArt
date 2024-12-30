@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 10 * * *'
+    - cron: '0 10 * * *' # Запускать каждый день в 13:00 MSK (приблизительно, в зависимости от времени года)
 
 jobs:
   update_readme:
@@ -27,5 +27,4 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Update README with new stats
-        push_options: '--force' # Добавляем force push, если это необходимо
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Добавляем токен
+        push_options: '--force'
