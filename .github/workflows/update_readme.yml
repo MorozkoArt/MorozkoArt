@@ -13,7 +13,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
       with:
-        fetch-depth: 0 # Необходимо для правильной работы git push
+        fetch-depth: 0
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -25,13 +25,16 @@ jobs:
 
     - name: Run script
       run: python update_readme.py
+
     - name: Configure Git
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
     - name: Commit and Push changes
+      env:
+        REPO_URL: "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
       run: |
         git add .
         git commit -m "Update README with new stats"
-        git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD --force
+        git push "$REPO_URL" HEAD --force
