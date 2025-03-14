@@ -6,17 +6,11 @@
     <h1>Hi there!👋 I'm  Artem Morozov </h1>
     <h3>Student - programmer</h3>
 </div>
-
 <div id="socials" align="center">
-    <a href="mailto:artemmorozov155@gmail.com" style="text-decoration: none">
-    <img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/4fd1903e43f84ab884e5ae311b45a904c1905132/Resources/Email-blue.svg" alt="Email"/>
-  </a>
-    <a href="https://vk.com/poc_norm" style="text-decoration: none">
-    <img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/4fd1903e43f84ab884e5ae311b45a904c1905132/Resources/VK-blue.svg" alt="VK"/>
-  </a>
-    <a href="https://t.me/morozko282" style="text-decoration: none">
-    <img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/4fd1903e43f84ab884e5ae311b45a904c1905132/Resources/Telegram-blue.svg" alt="Telegram"/>
-  </a>
+
+   [![Email](https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/4fd1903e43f84ab884e5ae311b45a904c1905132/Resources/Email-blue.svg)](mailto:artemmorozov155@gmail.com)
+    [![VK](https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/4fd1903e43f84ab884e5ae311b45a904c1905132/Resources/VK-blue.svg)](https://vk.com/poc_norm)
+    [![TG](https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/4fd1903e43f84ab884e5ae311b45a904c1905132/Resources/Telegram-blue.svg)](https://t.me/morozko282)
 </div>
 
 ### About me
@@ -31,11 +25,11 @@
 <img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/446de453fb12c56c11adfb43cde081d484777abb/Resources/csharp-original.svg" title="c#" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/446de453fb12c56c11adfb43cde081d484777abb/Resources/c-original.svg" title="c" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/446de453fb12c56c11adfb43cde081d484777abb/Resources/python-original.svg" title="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/77773fb908beec0559ab906b7359c349d1a49aed/Resources/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/77773fb908beec0559ab906b7359c349d1a49aed/Resources/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/77773fb908beec0559ab906b7359c349d1a49aed/Resources/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/446de453fb12c56c11adfb43cde081d484777abb/Resources/pycharm-original.svg" title="pycharm" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" title="phpstorm" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/77773fb908beec0559ab906b7359c349d1a49aed/Resources/phpstorm-original.svg" title="phpstorm" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/446de453fb12c56c11adfb43cde081d484777abb/Resources/visualstudio-original.svg" title="visualstudio" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/446de453fb12c56c11adfb43cde081d484777abb/Resources/vscode-original.svg" title="vscode" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/446de453fb12c56c11adfb43cde081d484777abb/Resources/blender-original.svg" title="blender" width="40" height="40"/>&nbsp;
