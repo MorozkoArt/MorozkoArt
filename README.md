@@ -34,11 +34,11 @@
 <img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/446de453fb12c56c11adfb43cde081d484777abb/Resources/vscode-original.svg" title="vscode" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/446de453fb12c56c11adfb43cde081d484777abb/Resources/blender-original.svg" title="blender" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/446de453fb12c56c11adfb43cde081d484777abb/Resources/unity-original.svg" title="unity" width="40" height="40"/>&nbsp;
-### My stat (last update: 07.10.2025 03:50:26)
+### My stat (last update: 08.10.2025 03:49:58)
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MorozkoArt&theme=github_dark&timestamp=1759798226.458674" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MorozkoArt&theme=github_dark&timestamp=1759798226.458688" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MorozkoArt&theme=github_dark&timestamp=1759798226.458692" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MorozkoArt&theme=github_dark&timestamp=1759884598.982354" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MorozkoArt&theme=github_dark&timestamp=1759884598.982366" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MorozkoArt&theme=github_dark&timestamp=1759884598.98237" alt=""/>
 </div>
 
 ---
