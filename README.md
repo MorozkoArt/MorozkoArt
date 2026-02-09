@@ -8,9 +8,9 @@
 </div>
 <div id="socials" align="center">
 
-   [![Email](https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/4fd1903e43f84ab884e5ae311b45a904c1905132/Resources/Email-blue.svg)](mailto:artemmorozov155@gmail.com)
-    [![VK](https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/4fd1903e43f84ab884e5ae311b45a904c1905132/Resources/VK-blue.svg)](https://vk.com/poc_norm)
-    [![TG](https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/4fd1903e43f84ab884e5ae311b45a904c1905132/Resources/Telegram-blue.svg)](https://t.me/morozko282)
+[![Email](https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/4fd1903e43f84ab884e5ae311b45a904c1905132/Resources/Email-blue.svg)](mailto:artemmorozov155@gmail.com)
+[![VK](https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/4fd1903e43f84ab884e5ae311b45a904c1905132/Resources/VK-blue.svg)](https://vk.com/poc_norm)
+[![TG](https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/4fd1903e43f84ab884e5ae311b45a904c1905132/Resources/Telegram-blue.svg)](https://t.me/morozko282)
 </div>
 
 ### About me
@@ -34,7 +34,7 @@
 <img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/446de453fb12c56c11adfb43cde081d484777abb/Resources/vscode-original.svg" title="vscode" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/446de453fb12c56c11adfb43cde081d484777abb/Resources/blender-original.svg" title="blender" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/MorozkoArt/MorozkoArt/446de453fb12c56c11adfb43cde081d484777abb/Resources/unity-original.svg" title="unity" width="40" height="40"/>&nbsp;
-### My stat (last update: 14.03.2025 03:48:09)
+### My stat
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MorozkoArt&theme=github_dark&timestamp=1741913289.203767" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MorozkoArt&theme=github_dark&timestamp=1741913289.203782" alt=""/>
